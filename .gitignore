@@ -1,0 +1,12 @@
+# python
+__pycache__/
+*.pyc
+
+# run outputs (reproducible from the scripts, never committed)
+*.npz
+*.bin
+*.dat
+*.log
+
+# nessi build
+nessi/build/

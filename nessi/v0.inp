@@ -1,0 +1,14 @@
+__Nk=16
+__lam=0.4
+__Mpre=-3.5
+__Mpost=-1.0
+__V=0.0
+__Nt=600
+__Ntau=300
+__beta=30.0
+__h=0.05
+__MuChem=0.0
+__BootstrapMaxIter=12
+__BootstrapMaxErr=1e-8
+__CorrectorSteps=5
+__SaveEvery=10
